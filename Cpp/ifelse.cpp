@@ -1,13 +1,17 @@
-#include <iostream>
-using namespace std;
+// #include <iostream>
+// using namespace std;
 
-int main() {
-    int n = 45;
+// int main() {
+//     int n = 45;
     
-    if (n>=0) {
-        cout << "Positive number" << endl;
-    }
-    else {
-        cout << "Negative number" << endl;
-    }
-}
+//     if (n>=0) {
+//         cout << "Positive number" << endl;
+//     }
+//     else {
+//         cout << "Negative number" << endl;
+//     }
+
+// return 0;
+
+// }
+
